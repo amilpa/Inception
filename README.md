@@ -26,7 +26,7 @@ An example scenario would be <br/>
 
 ## Link to product walkthrough
 
-[Click here to see demo video](https://github.com/amilpa/Inception)
+[Click here to see demo video](https://youtu.be/BTkNJ273yms)
 
 ## Libraries used
 
